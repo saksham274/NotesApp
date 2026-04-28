@@ -25,7 +25,21 @@ It allows users to register, login, and manage notes in real-time.
 ---
 
 ## 📱 Screenshots
-(Add below)
+
+### 🔐 Login Screen
+![Login](login.jpeg)
+
+### 📝 Notes Screen
+![Notes](notes.jpeg)
+
+### 📝 Add Notes
+![AddNotes](addnotes.jpeg)
+
+### ✏️ Edit Note
+![EditNote](editnotes.jpeg)
+
+### 🗑️ Delete Note
+![DeleteNote](deletenotes.jpeg)
 
 ---
 
